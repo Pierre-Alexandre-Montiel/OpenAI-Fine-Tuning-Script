@@ -1,4 +1,7 @@
 
+![image](https://github.com/Pierre-Alexandre-Montiel/OpenAI-Fine-Tuning-Script/assets/43781896/dfe53904-fafa-4fe5-b4d4-7a2dbb07e81d)
+
+
 ## Description
 
 [Python]- This Python script extracts text data from documents, creates JSONL files, and fine-tunes an OpenAI language model using the extracted data.
